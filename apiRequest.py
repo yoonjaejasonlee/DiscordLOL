@@ -14,16 +14,15 @@ mapRankName = {
 
 class riot_api_request(object):
 
-    def __init__(self, RiotAPI):
+    def __init__(self, RiotAPI) -> None:
         self.endpoint = 'https://na1.api.riotgames.com'
         self.puuidEnd = '/lol/summoner/v4/summoners/by-name/'
-        self.personal_Info = '/lol/league/v4/entries/by-summoner'
-        self.personal_Champ_Mastery = 'lol/champion-mastery/v4/champion-masteries/by-summoner/'
+        self.personal_Info = '/lol/league/v4/entries/by-summoner/'
+        self.personal_Champ_Mastery = '/lol/champion-mastery/v4/champion-masteries/by-summoner/'
         self.req_header = {
-            "User-Agent": 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.96 '
-                          'Safari/537.36',
-            "Accept_Language": 'en_US',
-            "X-Riot-Token": RiotAPI
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+                "Accept-Language": "en-US,en;q=0.9",
+                "X-Riot-Token": RiotAPI
         }
 
     def re_open_json(self):
@@ -49,10 +48,8 @@ class riot_api_request(object):
         self.update_client_info()
         try:
             keybox = self.get_puuid_and_encryptedID(name)
-            mastery = \
-                requests.get(self.endpoint + self.personal_Champ_Mastery + keybox['encid'],
-                             headers=self.req_header).json()[
-                    0]
+            mastery = requests.get(self.endpoint + self.personal_Champ_Mastery + keybox['encid'],
+                             headers=self.req_header).json()[0]
             chid = mastery['championId']
             chlv = mastery['championLevel']
             chpoint = mastery['championPoints']
@@ -72,14 +69,14 @@ class riot_api_request(object):
             keybox = self.get_puuid_and_encryptedID(name)
             mastery = requests.get(self.endpoint + self.personal_Champ_Mastery + keybox['encid'],
                                    headers=self.req_header).json()
-            re = dict()
+            re = {}
             if len(mastery) > 3:
                 mastery = mastery[0:3]
                 for i in mastery:
                     chid = i['championId']
                     chlv = i['championLevel']
                     chpoint = i['championPoints']
-                    re[champ_info[str(chid)]]['name'] = {
+                    re[champ_info[str(chid)]["name"]]= {
                         'championlevel': chlv,
                         'championpoint': chpoint,
                         'championImage': champ_info[str(chid)]["image"]
@@ -89,7 +86,7 @@ class riot_api_request(object):
                     chid = i['championId']
                     chlv = i['championLevel']
                     chpoint = i['championPoints']
-                    re[champ_info[str(chid)]]['name'] = {
+                    re[champ_info[str(chid)]["name"]] = {
                         'championlevel': chlv,
                         'championpoint': chpoint,
                         'championImage': champ_info[str(chid)]["image"]
