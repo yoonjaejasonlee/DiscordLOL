@@ -1,0 +1,1250 @@
+{
+    "1": {
+        "image": "Annie.png",
+        "name": "Annie",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "10": {
+        "image": "Kayle.png",
+        "name": "Kayle",
+        "tag": [
+            "Fighter",
+            "Support"
+        ]
+    },
+    "101": {
+        "image": "Xerath.png",
+        "name": "Xerath",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "102": {
+        "image": "Shyvana.png",
+        "name": "Shyvana",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "103": {
+        "image": "Ahri.png",
+        "name": "Ahri",
+        "tag": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "104": {
+        "image": "Graves.png",
+        "name": "Graves",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "105": {
+        "image": "Fizz.png",
+        "name": "Fizz",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "106": {
+        "image": "Volibear.png",
+        "name": "Volibear",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "107": {
+        "image": "Rengar.png",
+        "name": "Rengar",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "11": {
+        "image": "MasterYi.png",
+        "name": "MasterYi",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "110": {
+        "image": "Varus.png",
+        "name": "Varus",
+        "tag": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "111": {
+        "image": "Nautilus.png",
+        "name": "Nautilus",
+        "tag": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "112": {
+        "image": "Viktor.png",
+        "name": "Viktor",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "113": {
+        "image": "Sejuani.png",
+        "name": "Sejuani",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "114": {
+        "image": "Fiora.png",
+        "name": "Fiora",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "115": {
+        "image": "Ziggs.png",
+        "name": "Ziggs",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "117": {
+        "image": "Lulu.png",
+        "name": "Lulu",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "119": {
+        "image": "Draven.png",
+        "name": "Draven",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "12": {
+        "image": "Alistar.png",
+        "name": "Alistar",
+        "tag": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "120": {
+        "image": "Hecarim.png",
+        "name": "Hecarim",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "121": {
+        "image": "Khazix.png",
+        "name": "Khazix",
+        "tag": [
+            "Assassin"
+        ]
+    },
+    "122": {
+        "image": "Darius.png",
+        "name": "Darius",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "126": {
+        "image": "Jayce.png",
+        "name": "Jayce",
+        "tag": [
+            "Fighter",
+            "Marksman"
+        ]
+    },
+    "127": {
+        "image": "Lissandra.png",
+        "name": "Lissandra",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "13": {
+        "image": "Ryze.png",
+        "name": "Ryze",
+        "tag": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "131": {
+        "image": "Diana.png",
+        "name": "Diana",
+        "tag": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "133": {
+        "image": "Quinn.png",
+        "name": "Quinn",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "134": {
+        "image": "Syndra.png",
+        "name": "Syndra",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "136": {
+        "image": "AurelionSol.png",
+        "name": "AurelionSol",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "14": {
+        "image": "Sion.png",
+        "name": "Sion",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "141": {
+        "image": "Kayn.png",
+        "name": "Kayn",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "142": {
+        "image": "Zoe.png",
+        "name": "Zoe",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "143": {
+        "image": "Zyra.png",
+        "name": "Zyra",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "145": {
+        "image": "Kaisa.png",
+        "name": "Kaisa",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "147": {
+        "image": "Seraphine.png",
+        "name": "Seraphine",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "15": {
+        "image": "Sivir.png",
+        "name": "Sivir",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "150": {
+        "image": "Gnar.png",
+        "name": "Gnar",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "154": {
+        "image": "Zac.png",
+        "name": "Zac",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "157": {
+        "image": "Yasuo.png",
+        "name": "Yasuo",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "16": {
+        "image": "Soraka.png",
+        "name": "Soraka",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "161": {
+        "image": "Velkoz.png",
+        "name": "Velkoz",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "163": {
+        "image": "Taliyah.png",
+        "name": "Taliyah",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "164": {
+        "image": "Camille.png",
+        "name": "Camille",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "166": {
+        "image": "Akshan.png",
+        "name": "Akshan",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "17": {
+        "image": "Teemo.png",
+        "name": "Teemo",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "18": {
+        "image": "Tristana.png",
+        "name": "Tristana",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "19": {
+        "image": "Warwick.png",
+        "name": "Warwick",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "2": {
+        "image": "Olaf.png",
+        "name": "Olaf",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "20": {
+        "image": "Nunu.png",
+        "name": "Nunu",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "200": {
+        "image": "Belveth.png",
+        "name": "Belveth",
+        "tag": [
+            "Fighter"
+        ]
+    },
+    "201": {
+        "image": "Braum.png",
+        "name": "Braum",
+        "tag": [
+            "Support",
+            "Tank"
+        ]
+    },
+    "202": {
+        "image": "Jhin.png",
+        "name": "Jhin",
+        "tag": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "203": {
+        "image": "Kindred.png",
+        "name": "Kindred",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "21": {
+        "image": "MissFortune.png",
+        "name": "MissFortune",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "22": {
+        "image": "Ashe.png",
+        "name": "Ashe",
+        "tag": [
+            "Marksman",
+            "Support"
+        ]
+    },
+    "221": {
+        "image": "Zeri.png",
+        "name": "Zeri",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "222": {
+        "image": "Jinx.png",
+        "name": "Jinx",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "223": {
+        "image": "TahmKench.png",
+        "name": "TahmKench",
+        "tag": [
+            "Support",
+            "Tank"
+        ]
+    },
+    "23": {
+        "image": "Tryndamere.png",
+        "name": "Tryndamere",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "234": {
+        "image": "Viego.png",
+        "name": "Viego",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "235": {
+        "image": "Senna.png",
+        "name": "Senna",
+        "tag": [
+            "Marksman",
+            "Support"
+        ]
+    },
+    "236": {
+        "image": "Lucian.png",
+        "name": "Lucian",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "238": {
+        "image": "Zed.png",
+        "name": "Zed",
+        "tag": [
+            "Assassin"
+        ]
+    },
+    "24": {
+        "image": "Jax.png",
+        "name": "Jax",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "240": {
+        "image": "Kled.png",
+        "name": "Kled",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "245": {
+        "image": "Ekko.png",
+        "name": "Ekko",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "246": {
+        "image": "Qiyana.png",
+        "name": "Qiyana",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "25": {
+        "image": "Morgana.png",
+        "name": "Morgana",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "254": {
+        "image": "Vi.png",
+        "name": "Vi",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "26": {
+        "image": "Zilean.png",
+        "name": "Zilean",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "266": {
+        "image": "Aatrox.png",
+        "name": "Aatrox",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "267": {
+        "image": "Nami.png",
+        "name": "Nami",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "268": {
+        "image": "Azir.png",
+        "name": "Azir",
+        "tag": [
+            "Mage",
+            "Marksman"
+        ]
+    },
+    "27": {
+        "image": "Singed.png",
+        "name": "Singed",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "28": {
+        "image": "Evelynn.png",
+        "name": "Evelynn",
+        "tag": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "29": {
+        "image": "Twitch.png",
+        "name": "Twitch",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "3": {
+        "image": "Galio.png",
+        "name": "Galio",
+        "tag": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "30": {
+        "image": "Karthus.png",
+        "name": "Karthus",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "31": {
+        "image": "Chogath.png",
+        "name": "Chogath",
+        "tag": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "32": {
+        "image": "Amumu.png",
+        "name": "Amumu",
+        "tag": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "33": {
+        "image": "Rammus.png",
+        "name": "Rammus",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "34": {
+        "image": "Anivia.png",
+        "name": "Anivia",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "35": {
+        "image": "Shaco.png",
+        "name": "Shaco",
+        "tag": [
+            "Assassin"
+        ]
+    },
+    "350": {
+        "image": "Yuumi.png",
+        "name": "Yuumi",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "36": {
+        "image": "DrMundo.png",
+        "name": "DrMundo",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "360": {
+        "image": "Samira.png",
+        "name": "Samira",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "37": {
+        "image": "Sona.png",
+        "name": "Sona",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "38": {
+        "image": "Kassadin.png",
+        "name": "Kassadin",
+        "tag": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "39": {
+        "image": "Irelia.png",
+        "name": "Irelia",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "4": {
+        "image": "TwistedFate.png",
+        "name": "TwistedFate",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "40": {
+        "image": "Janna.png",
+        "name": "Janna",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "41": {
+        "image": "Gangplank.png",
+        "name": "Gangplank",
+        "tag": [
+            "Fighter"
+        ]
+    },
+    "412": {
+        "image": "Thresh.png",
+        "name": "Thresh",
+        "tag": [
+            "Support",
+            "Fighter"
+        ]
+    },
+    "42": {
+        "image": "Corki.png",
+        "name": "Corki",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "420": {
+        "image": "Illaoi.png",
+        "name": "Illaoi",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "421": {
+        "image": "RekSai.png",
+        "name": "RekSai",
+        "tag": [
+            "Fighter"
+        ]
+    },
+    "427": {
+        "image": "Ivern.png",
+        "name": "Ivern",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "429": {
+        "image": "Kalista.png",
+        "name": "Kalista",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "43": {
+        "image": "Karma.png",
+        "name": "Karma",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "432": {
+        "image": "Bard.png",
+        "name": "Bard",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "44": {
+        "image": "Taric.png",
+        "name": "Taric",
+        "tag": [
+            "Support",
+            "Fighter"
+        ]
+    },
+    "45": {
+        "image": "Veigar.png",
+        "name": "Veigar",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "48": {
+        "image": "Trundle.png",
+        "name": "Trundle",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "497": {
+        "image": "Rakan.png",
+        "name": "Rakan",
+        "tag": [
+            "Support"
+        ]
+    },
+    "498": {
+        "image": "Xayah.png",
+        "name": "Xayah",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "5": {
+        "image": "XinZhao.png",
+        "name": "XinZhao",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "50": {
+        "image": "Swain.png",
+        "name": "Swain",
+        "tag": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "51": {
+        "image": "Caitlyn.png",
+        "name": "Caitlyn",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "516": {
+        "image": "Ornn.png",
+        "name": "Ornn",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "517": {
+        "image": "Sylas.png",
+        "name": "Sylas",
+        "tag": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "518": {
+        "image": "Neeko.png",
+        "name": "Neeko",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "523": {
+        "image": "Aphelios.png",
+        "name": "Aphelios",
+        "tag": [
+            "Marksman"
+        ]
+    },
+    "526": {
+        "image": "Rell.png",
+        "name": "Rell",
+        "tag": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "53": {
+        "image": "Blitzcrank.png",
+        "name": "Blitzcrank",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "54": {
+        "image": "Malphite.png",
+        "name": "Malphite",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "55": {
+        "image": "Katarina.png",
+        "name": "Katarina",
+        "tag": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "555": {
+        "image": "Pyke.png",
+        "name": "Pyke",
+        "tag": [
+            "Support",
+            "Assassin"
+        ]
+    },
+    "56": {
+        "image": "Nocturne.png",
+        "name": "Nocturne",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "57": {
+        "image": "Maokai.png",
+        "name": "Maokai",
+        "tag": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "58": {
+        "image": "Renekton.png",
+        "name": "Renekton",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "59": {
+        "image": "JarvanIV.png",
+        "name": "JarvanIV",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "6": {
+        "image": "Urgot.png",
+        "name": "Urgot",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "60": {
+        "image": "Elise.png",
+        "name": "Elise",
+        "tag": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "61": {
+        "image": "Orianna.png",
+        "name": "Orianna",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "62": {
+        "image": "MonkeyKing.png",
+        "name": "MonkeyKing",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "63": {
+        "image": "Brand.png",
+        "name": "Brand",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "64": {
+        "image": "LeeSin.png",
+        "name": "LeeSin",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "67": {
+        "image": "Vayne.png",
+        "name": "Vayne",
+        "tag": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "68": {
+        "image": "Rumble.png",
+        "name": "Rumble",
+        "tag": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "69": {
+        "image": "Cassiopeia.png",
+        "name": "Cassiopeia",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "7": {
+        "image": "Leblanc.png",
+        "name": "Leblanc",
+        "tag": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "711": {
+        "image": "Vex.png",
+        "name": "Vex",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "72": {
+        "image": "Skarner.png",
+        "name": "Skarner",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "74": {
+        "image": "Heimerdinger.png",
+        "name": "Heimerdinger",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "75": {
+        "image": "Nasus.png",
+        "name": "Nasus",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "76": {
+        "image": "Nidalee.png",
+        "name": "Nidalee",
+        "tag": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "77": {
+        "image": "Udyr.png",
+        "name": "Udyr",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "777": {
+        "image": "Yone.png",
+        "name": "Yone",
+        "tag": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "78": {
+        "image": "Poppy.png",
+        "name": "Poppy",
+        "tag": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "79": {
+        "image": "Gragas.png",
+        "name": "Gragas",
+        "tag": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "8": {
+        "image": "Vladimir.png",
+        "name": "Vladimir",
+        "tag": [
+            "Mage"
+        ]
+    },
+    "80": {
+        "image": "Pantheon.png",
+        "name": "Pantheon",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "81": {
+        "image": "Ezreal.png",
+        "name": "Ezreal",
+        "tag": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "82": {
+        "image": "Mordekaiser.png",
+        "name": "Mordekaiser",
+        "tag": [
+            "Fighter"
+        ]
+    },
+    "83": {
+        "image": "Yorick.png",
+        "name": "Yorick",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "84": {
+        "image": "Akali.png",
+        "name": "Akali",
+        "tag": [
+            "Assassin"
+        ]
+    },
+    "85": {
+        "image": "Kennen.png",
+        "name": "Kennen",
+        "tag": [
+            "Mage",
+            "Marksman"
+        ]
+    },
+    "86": {
+        "image": "Garen.png",
+        "name": "Garen",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "875": {
+        "image": "Sett.png",
+        "name": "Sett",
+        "tag": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "876": {
+        "image": "Lillia.png",
+        "name": "Lillia",
+        "tag": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "887": {
+        "image": "Gwen.png",
+        "name": "Gwen",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "888": {
+        "image": "Renata.png",
+        "name": "Renata",
+        "tag": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "89": {
+        "image": "Leona.png",
+        "name": "Leona",
+        "tag": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "895": {
+        "image": "Nilah.png",
+        "name": "Nilah",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "9": {
+        "image": "Fiddlesticks.png",
+        "name": "Fiddlesticks",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "90": {
+        "image": "Malzahar.png",
+        "name": "Malzahar",
+        "tag": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "91": {
+        "image": "Talon.png",
+        "name": "Talon",
+        "tag": [
+            "Assassin"
+        ]
+    },
+    "92": {
+        "image": "Riven.png",
+        "name": "Riven",
+        "tag": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "96": {
+        "image": "KogMaw.png",
+        "name": "KogMaw",
+        "tag": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "98": {
+        "image": "Shen.png",
+        "name": "Shen",
+        "tag": [
+            "Tank"
+        ]
+    },
+    "99": {
+        "image": "Lux.png",
+        "name": "Lux",
+        "tag": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Version": "12.20.1"
+}
