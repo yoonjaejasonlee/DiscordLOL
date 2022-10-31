@@ -16,7 +16,7 @@ tier_list = {
     'default': 0,
     'IRON': 1,
     'BRONZE': 2,
-    'SILVER': 3,
+    'SIER': 3,
     'GOLD': 4,
     'PLATINUM': 5,
     'DIAMOND': 6,
@@ -59,11 +59,13 @@ async def on_message(message):
         return
 
     if message.content.startswith("!help"):
-        embed = discord.Embed(title="Help", description="!history {summoner_name}", color=0x5CE5D1)
+        embed = discord.Embed(title="Help", description="Use these commands to get started", color=0x5CE5D1)
+        embed.add_field(name="Search Match History",value="!history {summoner name}",inline=False)
+        embed.add_field(name="Search Most Played Champioons",value="!mostplayed {summoner name", inline=False)
         embed.set_footer(text='DiscodLOL by yoonj#0492',
                          icon_url='https://cdn.countryflags.com/thumbs/south-korea/flag-800.png')
 
-        await message.channel.send("help!", embed=embed)
+        await message.channel.send(embed=embed)
 
     if message.content.startswith("!history"):
         try:
@@ -115,7 +117,7 @@ async def on_message(message):
                             value=f"{record['Flex 5:5 Rank']['leaguepoint']} LP / {record['Flex 5:5 Rank']['win']}W {record['Flex 5:5 Rank']['loss']}L"
                                   f" / Win Ratio {flex_wr}%", inline=False)
                         embed.add_field(name=f"Most Used Champion : {mastery['championname']}",
-                                        value=f"Mastery Level : {mastery['championlevel']}.LV / Mastery Point : {mastery['championpoint']}pts")
+                                        value=f"Mastery Level : {mastery['championlevel']}. / Mastery Point : {mastery['championpoint']}pts")
                         embed.set_thumbnail(url=f"https://github.com/yoonjaejasonlee/DiscordLOL/blob/main/ranked-emblems/Emblem_{thumbnail}.png?raw=true")
                         embed.set_footer(text='DiscodLOL by yoonj#0492',
                                          icon_url='https://cdn.countryflags.com/thumbs/south-korea/flag-800.png')
@@ -140,7 +142,7 @@ async def on_message(message):
                             value=f"{record['Flex 5:5 Rank']['leaguepoint']} LP / {record['Flex 5:5 Rank']['win']}W {record['Flex 5:5 Rank']['loss']}L"
                                   f" / Win Ratio {flex_wr}%", inline=False)
                         embed.add_field(name=f"Most Used Champion : {mastery['championname']}",
-                                        value=f"Mastery Level : {mastery['championlevel']}.LV / Mastery Point : {mastery['championpoint']}pts")
+                                        value=f"Mastery Level : {mastery['championlevel']}. / Mastery Point : {mastery['championpoint']}pts")
                         embed.set_thumbnail(url=f"https://github.com/yoonjaejasonlee/DiscordLOL/blob/main/ranked-emblems/Emblem_{record['Flex 5:5 Rank']['tier']}.png?raw=true")
                         embed.set_footer(text='DiscodLOL by yoonj#0492',
                                          icon_url='https://cdn.countryflags.com/thumbs/south-korea/flag-800.png')
@@ -158,8 +160,7 @@ async def on_message(message):
                                   f" / Win Ratio {solo_wr}%", inline=False)
                         embed.add_field(name="Ranked Flex 5:5", value="Unranked", inline=False)
                         embed.add_field(name=f"Most Used Champion : {mastery['championname']}",
-                                        value=f"Mastery Level : {mastery['championlevel']}.LV / Mastery Point : {mastery['championpoint']}pts")
-                        print(record['Personal/Duo Rank']['tier'])
+                                        value=f"Mastery Level : {mastery['championlevel']} / Mastery Point : {mastery['championpoint']}pts")
                         embed.set_thumbnail(url=f"https://github.com/yoonjaejasonlee/DiscordLOL/blob/main/ranked-emblems/Emblem_{record['Personal/Duo Rank']['tier']}.png?raw=true")
                         embed.set_footer(text='DiscodLOL by yoonj#0492',
                                          icon_url='https://cdn.countryflags.com/thumbs/south-korea/flag-800.png')
@@ -206,7 +207,7 @@ async def on_message(message):
                         key = keys[counter - 1]
                         p = get_mastery_box[key]
                         embed.add_field(name=f"Most{counter} : {key}",
-                                        value=f"Mastery Level : {p['championlevel']}.LV / Mastery Point : {p['championpoint']}pts",
+                                        value=f"Mastery Level : {p['championlevel']} / Mastery Point : {p['championpoint']}pts",
                                         inline=False)
                         if counter == 1:
                             thumbnail = p['championImage']
